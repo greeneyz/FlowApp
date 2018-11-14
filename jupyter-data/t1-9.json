@@ -1,0 +1,80 @@
+{
+    "createdTS": 1541487832,
+    "appId": "FHJ1A2WTCBE",
+    "token": "2578",
+    "mac": "D4CA6E71B2E5",
+    "assetName": "3464",
+    "configVer": "t1",
+    "btTS": 1541487766,
+    "canData": [],
+    "accData": [{
+        "ts": 1541487819,
+        "x": 0.020719111,
+        "y": 0.12052727,
+        "z": 0.3623228,
+        "id": 11
+    }, {
+        "ts": 1541487827,
+        "x": 0.52925766,
+        "y": 0.40892363,
+        "z": 2.5799131,
+        "id": 12
+    }],
+    "gpsData": [],
+    "beacon": [],
+    "accessPoint": [{
+        "mac": "04:bf:6d:71:b7:46",
+        "ssid": "millisecond.fi",
+        "rss": -37,
+        "ts": 1541487823,
+        "id": 89
+    }, {
+        "mac": "04:bf:6d:71:b7:45",
+        "ssid": "millisecond.lab",
+        "rss": -31,
+        "ts": 1541487823,
+        "id": 90
+    }, {
+        "mac": "32:cd:a7:bf:91:ed",
+        "ssid": "DIRECT-jtC48x Series",
+        "rss": -67,
+        "ts": 1541487823,
+        "id": 91
+    }, {
+        "mac": "04:bf:6d:71:b7:46",
+        "ssid": "millisecond.fi",
+        "rss": -36,
+        "ts": 1541487826,
+        "id": 92
+    }, {
+        "mac": "04:bf:6d:71:b7:45",
+        "ssid": "millisecond.lab",
+        "rss": -31,
+        "ts": 1541487826,
+        "id": 93
+    }, {
+        "mac": "32:cd:a7:bf:91:ed",
+        "ssid": "DIRECT-jtC48x Series",
+        "rss": -65,
+        "ts": 1541487826,
+        "id": 94
+    }, {
+        "mac": "04:bf:6d:71:b7:46",
+        "ssid": "millisecond.fi",
+        "rss": -36,
+        "ts": 1541487829,
+        "id": 95
+    }, {
+        "mac": "04:bf:6d:71:b7:45",
+        "ssid": "millisecond.lab",
+        "rss": -31,
+        "ts": 1541487829,
+        "id": 96
+    }, {
+        "mac": "32:cd:a7:bf:91:ed",
+        "ssid": "DIRECT-jtC48x Series",
+        "rss": -65,
+        "ts": 1541487829,
+        "id": 97
+    }]
+}
