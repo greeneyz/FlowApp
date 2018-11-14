@@ -1,0 +1,183 @@
+{
+    "createdTS": 1540884005,
+    "appId": "FGZ8SZH_S4O",
+    "token": "2525",
+    "mac": "D4CA6E71B2E5",
+    "assetName": "4545",
+    "configVer": "t2",
+    "btTS": 1540883766,
+    "canData": [],
+    "accData": [{
+        "ts": 1540883979,
+        "x": 0.010017812,
+        "y": 0.47602606,
+        "z": 0.030423164,
+        "id": 20
+    }],
+    "gpsData": [{
+        "ts": 1540883986,
+        "lat": 60.2242533,
+        "lng": 24.7594184,
+        "alt": 44.0,
+        "acc": 34.0,
+        "id": 21
+    }],
+    "beacon": [],
+    "accessPoint": [{
+        "mac": "34:6f:90:34:10:30",
+        "ssid": "Kara B Park",
+        "rss": -88,
+        "ts": 1540883980,
+        "id": 280
+    }, {
+        "mac": "10:bf:48:92:3f:54",
+        "ssid": "Napoleonin mopo",
+        "rss": -74,
+        "ts": 1540883980,
+        "id": 281
+    }, {
+        "mac": "4c:9e:ff:70:fa:dc",
+        "ssid": "Yrityskyla",
+        "rss": -73,
+        "ts": 1540883980,
+        "id": 282
+    }, {
+        "mac": "4c:9e:ff:70:fa:dd",
+        "ssid": "Yrityskyla",
+        "rss": -71,
+        "ts": 1540883980,
+        "id": 283
+    }, {
+        "mac": "34:6f:90:34:06:5f",
+        "ssid": "Kara B Park",
+        "rss": -65,
+        "ts": 1540883980,
+        "id": 285
+    }, {
+        "mac": "34:6f:90:34:89:f0",
+        "ssid": "Kara B Park",
+        "rss": -63,
+        "ts": 1540883980,
+        "id": 286
+    }, {
+        "mac": "32:cd:a7:bf:91:ed",
+        "ssid": "DIRECT-jtC48x Series",
+        "rss": -62,
+        "ts": 1540883980,
+        "id": 287
+    }, {
+        "mac": "34:6f:90:34:89:ff",
+        "ssid": "Kara B Park",
+        "rss": -62,
+        "ts": 1540883980,
+        "id": 288
+    }, {
+        "mac": "04:bf:6d:71:b7:45",
+        "ssid": "millisecond.lab",
+        "rss": -44,
+        "ts": 1540883980,
+        "id": 291
+    }, {
+        "mac": "4c:9e:ff:70:fa:dd",
+        "ssid": "Yrityskyla",
+        "rss": -71,
+        "ts": 1540883990,
+        "id": 284
+    }, {
+        "mac": "32:cd:a7:bf:91:ed",
+        "ssid": "DIRECT-jtC48x Series",
+        "rss": -60,
+        "ts": 1540883990,
+        "id": 289
+    }, {
+        "mac": "04:bf:6d:71:b7:45",
+        "ssid": "millisecond.lab",
+        "rss": -47,
+        "ts": 1540883990,
+        "id": 290
+    }, {
+        "mac": "04:bf:6d:71:b7:46",
+        "ssid": "millisecond.fi",
+        "rss": -41,
+        "ts": 1540883990,
+        "id": 292
+    }, {
+        "mac": "10:bf:48:92:3f:54",
+        "ssid": "Napoleonin mopo",
+        "rss": -78,
+        "ts": 1540883990,
+        "id": 293
+    }, {
+        "mac": "34:6f:90:34:06:50",
+        "ssid": "Kara B Park",
+        "rss": -76,
+        "ts": 1540883990,
+        "id": 294
+    }, {
+        "mac": "4c:9e:ff:70:fa:dc",
+        "ssid": "Yrityskyla",
+        "rss": -69,
+        "ts": 1540883990,
+        "id": 297
+    }, {
+        "mac": "34:6f:90:34:06:5f",
+        "ssid": "Kara B Park",
+        "rss": -66,
+        "ts": 1540883990,
+        "id": 299
+    }, {
+        "mac": "34:6f:90:34:89:ff",
+        "ssid": "Kara B Park",
+        "rss": -63,
+        "ts": 1540883990,
+        "id": 301
+    }, {
+        "mac": "34:6f:90:34:89:f0",
+        "ssid": "Kara B Park",
+        "rss": -63,
+        "ts": 1540883990,
+        "id": 302
+    }, {
+        "mac": "10:bf:48:92:3f:54",
+        "ssid": "Napoleonin mopo",
+        "rss": -75,
+        "ts": 1540884000,
+        "id": 295
+    }, {
+        "mac": "4c:9e:ff:70:fa:dd",
+        "ssid": "Yrityskyla",
+        "rss": -71,
+        "ts": 1540884000,
+        "id": 296
+    }, {
+        "mac": "32:cd:a7:bf:91:ed",
+        "ssid": "DIRECT-jtC48x Series",
+        "rss": -67,
+        "ts": 1540884000,
+        "id": 298
+    }, {
+        "mac": "4c:9e:ff:70:fa:dc",
+        "ssid": "Yrityskyla",
+        "rss": -65,
+        "ts": 1540884000,
+        "id": 300
+    }, {
+        "mac": "34:6f:90:34:89:ff",
+        "ssid": "Kara B Park",
+        "rss": -62,
+        "ts": 1540884000,
+        "id": 303
+    }, {
+        "mac": "04:bf:6d:71:b7:45",
+        "ssid": "millisecond.lab",
+        "rss": -47,
+        "ts": 1540884000,
+        "id": 304
+    }, {
+        "mac": "04:bf:6d:71:b7:46",
+        "ssid": "millisecond.fi",
+        "rss": -42,
+        "ts": 1540884000,
+        "id": 305
+    }]
+}
